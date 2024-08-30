@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SzRobi034
-- 👀 I’m interested in hockey 
-- 📫 How to reach me     https://www.instagram.com/robi_szili/
+- 📫 How to reach me     [https://www.instagram.com/robi_szili/](https://www.instagram.com/szili_robi/)
 
 <!---
 SzRobi034/SzRobi034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
